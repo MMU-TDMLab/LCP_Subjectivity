@@ -2,7 +2,7 @@
 
 This repository contains code and data associated with the paper:
 
-Agree to Disagree: Exploring Subjectivity in Lexical Complexity, M. Shardlow, In proceedings of LREC, Marseille, 2022.
+Agree to Disagree: Exploring Subjectivity in Lexical Complexity, M. Shardlow, In proceedings of READI, Marseille, 2022.
 
 The code is stored as jupyter notebook files. Each file should run independently of all others. Intermediary results are stored as pickled dataframes (.pkl).
 
