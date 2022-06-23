@@ -11,3 +11,18 @@ The source data for the shared tasks are stored in the CWI_2018 and LCP_2021 fol
 The Figures directory is left blank as running the code will save figures there.
 
 Please contact m.shardlow@mmu.ac.uk for further info and cite the paper above if you find this useful.
+
+Bibtex:
+
+
+```
+@InProceedings{shardlow-2022:READI,
+  author    = {Shardlow, Matthew},
+  title     = {Agree to Disagree: Exploring Subjectivity in Lexical Complexity},
+  booktitle      = {Proceedings of the LREC Workshop: Tools and Resources for People with REAding DIfficulties (READI)},
+  month          = {June},
+  year           = {2022},
+  address        = {Marseille, France},
+  publisher      = {European Language Resources Association},
+}
+```
