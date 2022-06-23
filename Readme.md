@@ -17,8 +17,8 @@ Bibtex:
 
 ```
 @InProceedings{shardlow-2022:READI,
+  title = {Agree to Disagree: Exploring Subjectivity in Lexical Complexity} 
   author    = {Shardlow, Matthew},
-  title     = {Agree to Disagree: Exploring Subjectivity in Lexical Complexity},
   booktitle      = {Proceedings of the LREC Workshop: Tools and Resources for People with REAding DIfficulties (READI)},
   month          = {June},
   year           = {2022},
